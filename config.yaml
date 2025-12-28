@@ -1,0 +1,4 @@
+appVersion   : 1.0.0.1000
+timeZone     : "UTC"
+brightness   : 255
+blinkInterval: 500
