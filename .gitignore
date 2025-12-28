@@ -1,0 +1,5 @@
+.temp
+*.patch
+build/
+Src/AutoGen/
+.vscode/
