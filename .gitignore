@@ -3,3 +3,6 @@
 build/
 Src/AutoGen/
 .vscode/
+Libs/*.zip
+Libs/*.tar.gz
+old/
